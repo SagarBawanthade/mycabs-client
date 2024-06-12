@@ -26,7 +26,7 @@ const Login = () => {
             });
 
 
-            const adminPanelUrl = `http://localhost:3001`;
+            const adminPanelUrl = `https://mycabs-admin.onrender.com`;
             window.location.href = adminPanelUrl;
 
             // Clear input fields
