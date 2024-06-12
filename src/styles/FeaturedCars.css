@@ -1,0 +1,37 @@
+.custom-card {
+    transition: transform 0.3s;
+}
+
+.custom-card:hover {
+    transform: scale(1.05);
+}
+
+.custom-card-image {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    margin-top: auto;
+    /* Ensure it sticks to the bottom of the card body */
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: orange !important;
+    color: #fff;
+    border: none !important;
+    border-radius: 10rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btns:hover {
+    background-color: orangered !important;
+    cursor: pointer;
+}

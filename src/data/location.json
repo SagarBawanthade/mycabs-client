@@ -1,0 +1,34 @@
+{
+  "locations": [
+    {
+      "name": "Mumbai",
+      "description": "Mumbai, formerly Bombay, is the capital city of the Indian state of Maharashtra. It is the most populous city in India and the seventh most populous city in the world.",
+      "image": "https://t3.ftcdn.net/jpg/03/55/64/04/360_F_355640480_FKKv2BQwqY6sMa6jmEGVPnEndX1GPtJU.jpg"
+    },
+    {
+      "name": "Pune",
+      "description": "Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818.",
+      "image": "https://w0.peakpx.com/wallpaper/428/972/HD-wallpaper-rajgad-fort-near-pune-india-2019-bing.jpg"
+    },
+    {
+      "name": "Sambhajinagar",
+      "description": "Sambhajinagar is a city in the Indian state of Maharashtra. It’s known for the 17th-century marble Bibi ka Maqbara shrine, styled on the Taj Mahal.",
+      "image": "https://media.istockphoto.com/id/940381188/photo/bibi-ka-maqbara-mausoleum-in-aurangabad-maharashtra-india.webp?b=1&s=170667a&w=0&k=20&c=z9VXe24dnf5QaMdLspmUr52EW4VzYOFae49vzqV-CJk="
+    },
+    {
+      "name": "Nashik",
+      "description": "Nashik is an ancient holy city in Maharashtra, a state in western India. It’s known for its links to the “Ramayana” epic poem.",
+      "image": "https://media.istockphoto.com/id/480807998/photo/ramkund-at-panchavati-in-nasik-india.jpg?s=612x612&w=0&k=20&c=gm8AKjg4rtroT9jDZ-tUHvccZT_ORXrwApwO_4QwaTs="
+    },
+    {
+      "name": "BhimaShankar",
+      "description": "The Bhimashankar Mandir is a Shiva mandir situated in its eponymous village, Bhimashankar, in Pune district of Maharashtra. It is a key pilgrimage centre and one of the 12 Jyotirlinga in the world.[1] The temple's Shiva lingam is one of the three Jyotirlinga of Maharashtra.[2] The mandir is situated on a mountain. It is 110 kilometers away from Pune.",
+      "image": "https://templeyatri.in/wp-content/uploads/2024/02/bhimashankar-temple-maharashtra.jpg"
+    },
+    {
+      "name": "Mahabaleshwar",
+      "description": "Mahableshwar is the best hill station of Maharashtra. It is situated about 4500 ft. above sea level on the Sahyadri spurs. It was the erstwhile summer capital of Old Bombay Presidency. The tourists are enthralled by its exotic greenery, beautiful gardens & breath-taking scenery.",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/98/6e/62/mesmerising-mahabaleshwar.jpg"
+    }
+  ]
+}

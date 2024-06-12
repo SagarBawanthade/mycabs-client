@@ -1,0 +1,17 @@
+.btn-adminlogin {
+    background-color: #f5870a;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-weight: bold;
+
+}
+
+.btn-adminlogin:hover {
+    opacity: 1;
+}

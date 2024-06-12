@@ -1,0 +1,76 @@
+/* src/styles/CarCard.css */
+
+.car-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+    height: 88%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* Add spacing between cards */
+}
+
+
+
+
+
+
+.car-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+
+.car-content {
+    display: flex;
+}
+
+
+
+.card-title {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.car-details p,
+.car-features p,
+.car-inclusions-exclusions p {
+    margin: 0;
+}
+
+.car-features,
+.car-inclusions-exclusions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.car-price-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.car-price {
+    font-size: 1.2rem;
+}
+
+.book-btn {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.book-btn:hover {
+    background-color: #ffc107;
+}
+
+/* Add hover animation */
+.car-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

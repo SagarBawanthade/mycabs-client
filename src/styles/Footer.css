@@ -1,0 +1,38 @@
+footer {
+    background-color: #343a40 !important;
+    /* Dark background */
+    color: #ffffff !important;
+    /* Light text */
+}
+
+footer a {
+    color: #ffffff !important;
+    /* Light text for links */
+}
+
+footer .border-bottom {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+    /* Light border color */
+}
+
+footer .text-uppercase {
+    font-family: "Amaranth", sans-serif;
+    font-size: 25px;
+}
+
+footer p {
+    font-size: 15px;
+    color: #ffffff !important;
+    /* Light text for paragraphs and headings */
+    font-family: "Play",
+        sans-serif;
+
+
+
+}
+
+footer h6 {
+    color: orange !important;
+    /* Light text for paragraphs and headings */
+    font-family: "Amaranth", sans-serif;
+}
