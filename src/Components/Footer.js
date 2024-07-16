@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Footer.css'; // Import custom CSS for additional styling
+import '../styles/Footer.css'; 
 
 function Footer() {
     return (
@@ -16,24 +16,7 @@ function Footer() {
                     <a href="https://www.instagram.com/mycabservices" className="me-4 text-reset text-light">
                             <i className="fab fa-instagram"></i>
                         </a>
-                        {/*<a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-twitter"></i>
-                        </a>
-                        <a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-google"></i>
-                        </a>
-                        <a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-instagram"></i>
-                        </a>
-                        <a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-linkedin"></i>
-                        </a>
-                        <a href="" className="me-4 text-reset text-light">
-                            <i className="fab fa-github"></i>
-                        </a>*/}
+                       
                     </div>
 
                 </section>
@@ -46,10 +29,10 @@ function Footer() {
                             <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
                                 <h6 style={{ color: "orange" }} className="text-uppercase fw-bold mb-4">
-                                    <i className="fas fa-car me-3"></i>My Cab
+                                    <i className="fas fa-car me-3"></i>Hello Cab
                                 </h6>
                                 <p>
-                                    At My Cab, we’re more than just a cab rental service – we’re your ticket to hassle-free travel. With a commitment to reliability, safety, and affordability, we’re here to make every journey a memorable one.
+                                    At Hello Cab, we’re more than just a cab rental service – we’re your ticket to hassle-free travel. With a commitment to reliability, safety, and affordability, we’re here to make every journey a memorable one.
                                 </p>
                             </div>
 
@@ -64,12 +47,12 @@ function Footer() {
                             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
 
                                 <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
-                                <p><i className="fas fa-home me-3"></i> Chikhali, Pune -411062</p>
+                                <p><i className="fas fa-home me-3"></i> Aurdi, Pune - 411035</p>
                                 <p>
                                     <i className="fas fa-envelope me-3"></i>
-                                    kudkerushi1212.com
+                                    sagar@gmail.com
                                 </p>
-                                <p><i className="fas fa-phone me-3"></i> +91-7517987910</p>
+                                <p><i className="fas fa-phone me-3"></i> +91-9511733122</p>
 
                             </div>
 
@@ -80,7 +63,7 @@ function Footer() {
 
                 <div className="text-center p-4" style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}>
                     © 2024 Copyright :
-                    <a className="text-reset fw-bold" href="https://mdbootstrap.com/"> MyCab.com</a>
+                    <a className="text-reset fw-bold" href="https://mdbootstrap.com/"> HelloCab.com</a>
                 </div>
 
             </footer>

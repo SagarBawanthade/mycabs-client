@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import '../styles/Navbar.css';
-import logo from '../images/logo.jpg';
+import logo from '../images/navlogo.webp';
 import { HashLink as NavLink } from 'react-router-hash-link';
 
 
@@ -23,7 +23,7 @@ const NavigationBar = () => {
                         className="d-inline-block align-top custom-logo"
                         alt="Car Rental logo"
                     />
-                    <span className="ml-2 brand-name">My Cab</span>
+                    <span className="ml-2 brand-name">Hello Cab</span>
                 </Navbar.Brand>
                 <Navbar.Toggle style={{ color: "black" }} aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

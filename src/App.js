@@ -47,7 +47,7 @@ function App() {
           <PopularLocations />
           <FeaturedCars />
           <Stats />
-          <InstaPost />
+          {/*<InstaPost />*/}
           <Footer />
 
         </>
